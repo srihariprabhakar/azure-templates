@@ -64,7 +64,7 @@ Update placeholder values inside the templates for:
 This set of templates is ideal for:
 - Cloud engineers doing fast demos or POCs
 - Technical Account Managers (TAMs) needing reproducible setups
-- Interview preparation or GitHub profile activity
+- Bug repro
 - Anyone building secure, scalable infrastructure on Azure
 
 ---
