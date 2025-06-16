@@ -1,4 +1,4 @@
-# 🚀 Azure Quickstart Templates for High-Performance Infrastructure
+# 🚀 Azure Quickstart Templates Bicep Templates
 
 This repository contains 4 ready-to-deploy **Azure Bicep templates** designed for quick provisioning of production-grade, performance-focused cloud components.
 
